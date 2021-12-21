@@ -1,4 +1,4 @@
-# dugga-csv-integration-helper
+# Dugga csv integration helper
 
 This is a simple command line tool to help Dugga's customers to integrate through our CSV API.
 
